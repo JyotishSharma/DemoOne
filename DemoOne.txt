@@ -1,0 +1,12 @@
+steps :
+1. Create repository on github
+2. Create a text file anyware on the system say "Desktop"
+3. Uplod text file in your repository 
+4. Create a folder in say "D" Drive say "Devops"
+5. go to git bash and clone your repository
+6. go to that repository and check your text file using ls command
+7. check your git status
+8. here are 3 states of the file 
+    a] modified 
+    b] staged
+    c] commit 
